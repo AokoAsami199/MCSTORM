@@ -1,3 +1,4 @@
-# MCSTORM
-
-Some Simple botting jars for minecraft <3
+# CynxStresser Bot 
++ pip install discord.py
++ pip install colorama
+## Published by HungNguyenAZ
